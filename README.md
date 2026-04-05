@@ -34,9 +34,9 @@
   <strong>AI & Data Science:</strong><br>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" alt="scipy" width="40" height="40"/> </a>
+  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="scipy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
@@ -44,9 +44,14 @@
 
 <p align="left">
   <strong>Tools & Infrastructure:</strong><br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Slurm-444444?style=for-the-badge&logo=linux&logoColor=white" alt="slurm" height="30"/> </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ansys-%23ffcc00.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ansys" height="28"/> </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" height="28"/> </a>
+  <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphPad_Prism-005A9C?style=for-the-badge&logo=prism&logoColor=white" alt="prism" height="28"/> </a>
+  <a href="https://physlets.org/tracker/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Physics_Tracker-000000?style=for-the-badge&logo=tracker&logoColor=white" alt="physics-tracker" height="28"/> </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DaVinci_Resolve-171515?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="davinci-resolve" height="28"/> </a>
+  <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Slurm-444444?style=for-the-badge&logo=linux&logoColor=white" alt="slurm" height="28"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 </p>
 
