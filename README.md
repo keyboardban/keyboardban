@@ -1,58 +1,86 @@
-<h1 align="center">Hi 👋, I'm Poom</h1>
-<h3 align="center">Computer Science Student at Chulalongkorn University</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyboardban&label=Profile%20views&color=0e75b6&style=flat" alt="keyboardban" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=555879&center=true&vCenter=true&width=500&lines=TEERACHOT+SAENTHONG;COMPUTER+SCIENCE+STUDENT" alt="Typing SVG" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keyboardban" alt="keyboardban" /></a> </p>
-
-- 🔭 I’m currently working on **Building AI models and exploring Machine Learning architectures.**
-- 👯 I’m looking to collaborate on **Open-source AI/Machine Learning projects and Data Science initiatives.**
-- 🌱 I’m currently learning **Deep Learning with PyTorch, Computer Vision, and Advanced Calculus.**
-- ⚡ Fun fact **I only know Ctrl C and Ctrl V.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/teerachot-saenthong-51844b3a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://huggingface.co/pmootr" target="blank"><img align="center" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" height="30" width="35" /></a>
-<a href="https://www.instagram.com/pmootr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keyboardban&label=PROFILE+VIEWS&color=555879&style=flat-square" alt="views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<p align="left"> 
-  <strong>Programming Languages:</strong><br>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original.svg" alt="julia" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</p>
+<div align="left">
+
+### ABOUT ME
+
+I am a Computer Science student at Chulalongkorn University with a focus on **Artificial Intelligence** and **Machine Learning**. My primary research interests lie in **Audio Signal Processing** and **Automatic Speech Recognition (ASR)**. 
+
+Additionally, I explore the intersection of **Computational Physics** and Deep Learning, utilizing mathematical modeling and numerical simulations to investigate acoustic phenomena and signal frameworks.
+
+- Currently working on: AI model optimization and Speech technology.
+- Learning: Advanced Deep Learning, Signal Processing, and Scientific Computing.
+- Interests: Computational Physics, Quantitative Trading, and High-Performance Computing.
+
+</div>
+
+---
+
+### TECH STACK
 
 <p align="left">
-  <strong>AI & Data Science:</strong><br>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/scipy/scipy-icon.svg" alt="scipy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <strong>Programming</strong><br>
+  <img src="https://img.shields.io/badge/python-555879?style=for-the-badge&logo=python&logoColor=F4EBD3" />
+  <img src="https://img.shields.io/badge/java-555879?style=for-the-badge&logo=java&logoColor=F4EBD3" />
+  <img src="https://img.shields.io/badge/julia-555879?style=for-the-badge&logo=julia&logoColor=F4EBD3" />
+  <img src="https://img.shields.io/badge/r-555879?style=for-the-badge&logo=r&logoColor=F4EBD3" />
+  <img src="https://img.shields.io/badge/matlab-555879?style=for-the-badge&logo=mathworks&logoColor=F4EBD3" />
 </p>
 
 <p align="left">
-  <strong>Tools & Infrastructure:</strong><br>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.ansys.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ansys-%23ffcc00.svg?style=for-the-badge&logo=ansys&logoColor=black" alt="ansys" height="28"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" height="28"/> </a>
-  <a href="https://www.graphpad.com/scientific-software/prism/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphPad_Prism-005A9C?style=for-the-badge&logo=prism&logoColor=white" alt="prism" height="28"/> </a>
-  <a href="https://physlets.org/tracker/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Physics_Tracker-000000?style=for-the-badge&logo=tracker&logoColor=white" alt="physics-tracker" height="28"/> </a>
-  <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DaVinci_Resolve-171515?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="davinci-resolve" height="28"/> </a>
-  <a href="https://slurm.schedmd.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Slurm-444444?style=for-the-badge&logo=linux&logoColor=white" alt="slurm" height="28"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+  <strong>AI & Data Science</strong><br>
+  <img src="https://img.shields.io/badge/pytorch-98A1BC?style=for-the-badge&logo=pytorch&logoColor=555879" />
+  <img src="https://img.shields.io/badge/scikitlearn-98A1BC?style=for-the-badge&logo=scikitlearn&logoColor=555879" />
+  <img src="https://img.shields.io/badge/numpy-98A1BC?style=for-the-badge&logo=numpy&logoColor=555879" />
+  <img src="https://img.shields.io/badge/pandas-98A1BC?style=for-the-badge&logo=pandas&logoColor=555879" />
+  <img src="https://img.shields.io/badge/scipy-98A1BC?style=for-the-badge&logo=scipy&logoColor=555879" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keyboardban&show_icons=true&locale=en" alt="keyboardban" /></p>
+<p align="left">
+  <strong>Tools & Infrastructure</strong><br>
+  <img src="https://img.shields.io/badge/git-DED3C4?style=for-the-badge&logo=git&logoColor=555879" />
+  <img src="https://img.shields.io/badge/linux-DED3C4?style=for-the-badge&logo=linux&logoColor=555879" />
+  <img src="https://img.shields.io/badge/ansys-DED3C4?style=for-the-badge&logo=ansys&logoColor=555879" />
+  <img src="https://img.shields.io/badge/slurm-DED3C4?style=for-the-badge&logo=linux&logoColor=555879" />
+  <img src="https://img.shields.io/badge/latex-DED3C4?style=for-the-badge&logo=latex&logoColor=555879" />
+</p>
+
+---
+
+### STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyboardban&show_icons=true&theme=default&bg_color=F4EBD3&title_color=555879&text_color=555879&icon_color=98A1BC&border_color=DED3C4&hide_border=false" alt="Stats Card" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyboardban&layout=compact&bg_color=F4EBD3&title_color=555879&text_color=555879&border_color=DED3C4&hide_border=false" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyboardban&theme=default&background=F4EBD3&ring=555879&fire=98A1BC&currStreakNum=555879&sideNums=555879&sideLabels=555879&dates=98A1BC&hide_border=false&border=DED3C4" alt="Streak Stats" />
+</p>
+
+---
+
+### CONNECT
+
+<div align="center">
+
+[LINKEDIN](https://www.linkedin.com/in/teerachot-saenthong-51844b3a5/) | [HUGGINGFACE](https://huggingface.co/pmootr) | [INSTAGRAM](https://www.instagram.com/pmootr/)
+
+</div>
+
+---
+<p align="center">
+  LAST UPDATED: 2026-04-07
+</p>
+</div>
