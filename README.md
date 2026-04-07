@@ -47,20 +47,6 @@ I am passionate about implementing modern architectures like **WavLM** and **Con
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keyboardban&theme=monochrome&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 # Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/teerachot-saenthong-51844b3a5/" target="_blank">
