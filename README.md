@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1 align="center">TEERACHOT SAENTHONG</h1>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycGllamh2aHBvbGg0Y3M3aHpnejVpc2owcTI4ejg5OWE5b205NXd6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy-downsized.gif" width="500" alt="Programmer Animation">
+
+<img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" alt="Header Graphic">
+
+<h1 align="center">TEERACHOT SAENTHONG</h1>
 
 <br>
 
@@ -45,6 +47,19 @@ I am passionate about implementing modern architectures like **WavLM** and **Con
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keyboardban&theme=monochrome&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # Connect with me:
 <p align="center">
