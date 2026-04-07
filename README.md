@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=8FABD4&center=true&vCenter=true&width=500&lines=TEERACHOT+SAENTHONG;COMPUTER+SCIENCE+STUDENT" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=200&section=header&text=TEERACHOT%20SAENTHONG&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=COMPUTER+SCIENCE+STUDENT;AI+%26+MACHINE+LEARNING;COMPUTATIONAL+PHYSICS" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keyboardban&label=PROFILE+VIEWS&color=8C1007&style=flat-square" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=keyboardban&label=PROFILE+VIEWS&color=ffffff&style=flat-square" alt="views" />
 </p>
 
 ---
@@ -12,7 +14,7 @@
 
 ### ABOUT ME
 
-I am a Computer Science student at Chulalongkorn University. I am interested in **AI and Machine Learning**, particularly in **Audio Signal Processing** and **ASR**. 
+I am a Computer Science student at Chulalongkorn University. I am interested in **AI and Machine Learning**, particularly in **Audio Signal Processing** and **ASR**.
 
 I also have an interest in **Computational Physics**, with experience in applying mathematical modeling and numerical simulations to explore problems in acoustics and signal processing.
 
@@ -67,6 +69,22 @@ I also have an interest in **Computational Physics**, with experience in applyin
 
 ---
 
+### STATISTICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=keyboardban&show_icons=true&theme=dark&bg_color=161b22&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444c56&hide_border=false" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyboardban&layout=compact&theme=dark&bg_color=161b22&title_color=ffffff&text_color=ffffff&border_color=444c56&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyboardban&theme=dark&background=161b22&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=444c56" alt="Streak Stats" />
+</p>
+
+---
+
 ### CONNECT
 
 <div align="center">
@@ -79,4 +97,5 @@ I also have an interest in **Computational Physics**, with experience in applyin
 <p align="center">
   LAST UPDATED: 2026-04-07
 </p>
+
 </div>
