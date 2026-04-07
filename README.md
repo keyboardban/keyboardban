@@ -1,10 +1,8 @@
 <div align="center">
 
-
-
-<img src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" alt="Header Graphic">
-
 <h1 align="center">TEERACHOT SAENTHONG</h1>
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycGllamh2aHBvbGg0Y3M3aHpnejVpc2owcTI4ejg5OWE5b205NXd6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy-downsized.gif" width="500" alt="Programmer Animation">
 
 <br>
 
@@ -13,10 +11,13 @@
 </div>
 
 # About Me:
-I am a Computer Science student at Chulalongkorn University. My expertise lies in the intersection of **AI/Machine Learning** and **Audio Signal Processing**. I have experience in building computational frameworks and numerical simulations, specifically in **Automatic Speech Recognition (ASR)** and **Computational Physics**.
+I am a Computer Science student at Chulalongkorn University. My academic journey is driven by a fascination with how computational power can decode the complexities of both human language and the physical world.
 
-I am passionate about implementing modern architectures like **WavLM** and **Conformer** to solve real-world signal processing challenges. My background includes a Summer Research Traineeship at **NSTDA**, where I focused on advanced acoustic modeling.
+### Artificial Intelligence & Machine Learning
+I am deeply passionate about Deep Learning, with a specialized focus on **Audio and Signal Processing**. My work primarily revolves around **Automatic Speech Recognition (ASR)**, where I explore advanced architectures like **WavLM** and **Conformer**. I am interested in optimizing how machines perceive raw waveforms and transforming them into meaningful data, especially for inclusive technology.
 
+### Computational Physics
+Beyond AI, I have a profound interest in **Computational Physics**. I enjoy building numerical simulations and mathematical frameworks to model physical phenomena. I believe that the synergy between established physical laws and modern data-driven models is the key to solving complex scientific challenges, particularly in the field of acoustics and wave propagation.
 <br>
 
 <div align="center">
@@ -43,6 +44,20 @@ I am passionate about implementing modern architectures like **WavLM** and **Con
   <img src="https://github-readme-stats.vercel.app/api?username=keyboardban&show_icons=true&theme=dark&bg_color=161b22&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444c56&hide_border=false" alt="GitHub Stats" /><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyboardban&theme=dark&background=161b22&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false&border=444c56" alt="Streak Stats" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyboardban&layout=compact&theme=dark&bg_color=161b22&title_color=ffffff&text_color=ffffff&border_color=444c56&hide_border=false" alt="Top Languages" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keyboardban&theme=monochrome&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
