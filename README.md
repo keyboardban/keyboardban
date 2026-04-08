@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1 align="center">TEERACHOT SAENTHONG</h1>
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUycGllamh2aHBvbGg0Y3M3aHpnejVpc2owcTI4ejg5OWE5b205NXd6cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B4dt6rXq6nABilHTYM/giphy-downsized.gif" width="500" alt="Programmer Animation">
+
+<h1 align="center">TEERACHOT SAENTHONG</h1>
 
 <br>
 
